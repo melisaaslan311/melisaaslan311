@@ -4,7 +4,6 @@
 <p align="left">
 🎯 Interested in <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>AI solutions</strong>.  
 💻 Experienced in Python, C++, and embedded systems.  
-🛠️ Skilled in computer vision, time-series analysis, recommendation systems, and IoT projects.  
 🌱 Studying Electrical & Electronic Engineering at İzmir Democracy University
 
 <h3 align="left">🛠 Tech Stack</h3>
