@@ -3,7 +3,7 @@
 # <code>𝙼𝚎𝚕𝚒𝚜𝚊 𝙰𝚜𝚕𝚊𝚗</code>
 
 <p align="center">
-  Final year Electrical & Electronics engineering passionate about building real-world AI systems — from FPGA image processing to production-level MLOps pipelines
+  Junior AI&ML Engineer passionate about building real-world AI systems — from FPGA image processing to production-level MLOps pipelines
 </p>
 
 <p align="center">
